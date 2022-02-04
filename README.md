@@ -12,4 +12,3 @@ Contact for data and materials availability: Adria-Jaume Roura.
 
 Analysis performed by: Adria-Jaume Roura, Bartosz Wojtas and Michal J. Dabrowski.
 
-END
