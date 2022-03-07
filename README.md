@@ -1,5 +1,5 @@
 # Overview
-Code for analyses presented in "The oncogenic transcription factor c-Jun regulates critical overexpressed genes in glioblastoma and is widely involved in distal-regulatory glioma elements". Article can be found here.
+Code for analyses presented in "c-Jun transcription factor regulates the overexpression of genes critical for glioblastoma development".
 
 # Data availability
 Processed data is available at https://www.synapse.org/TFBSglioma
